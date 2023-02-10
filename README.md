@@ -6,4 +6,4 @@ Using the ggplot library in R (**analysis.R**), I created interactive plots and 
 
 One of the findings of the project is that the Safe Passages program primarily operates in low-income regions. This plot serves as evidence of the correlation between the location of the Safe Passages program and the income levels of the surrounding areas. This information can be used to better understand the needs of the communities served by the Safe Passages program and to inform decision-making related to the allocation of resources. 
 
-![alt text](https://github.com/cindyheqy/Safe_Passage_Program/blob/main/output_income.jpg?raw=true)
+![alt text](https://github.com/cindyheqy/Safe_Passage/blob/main/output_income.png?raw=true)
