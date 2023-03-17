@@ -1,17 +1,7 @@
-###################################################
-### EPSA Workshop                               ###
-### Working with Spatial Data                   ###
-### Austin Wright, The University of Chicago    ###
-###################################################
+
 
 library(sf)
 library(tidyverse)
-
-###########################
-######### Overview ########
-###########################
-
-# Today we'll be covering the basics of spatial data using R's simple features (sf). The sf help manual can be found here: https://r-spatial.github.io/sf/ and is very useful, please read it!
 
 # 1. Loading and plotting shapefiles
 # 2. Attaching more data
